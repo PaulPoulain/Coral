@@ -1,0 +1,4 @@
+.DS_Store
+/admin/configuration.ini
+/attachments/*
+Thumbs.db
